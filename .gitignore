@@ -5,3 +5,4 @@
 *.csv
 *.exe
 build
+.idea
