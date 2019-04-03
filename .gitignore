@@ -1,0 +1,7 @@
+*.log
+*.pem
+*.txt
+*.xml
+*.csv
+*.exe
+build

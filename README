@@ -1,0 +1,54 @@
+ICON SDK for Golang is a collection of libraries which allow you to interact with a local or remote Loopchain node, using an HTTP connection. The following documentation will guide you through installing and running ICON SDK for Golang as well as providing an API reference documentation examples. It is reference to ICON JSON-RPC API v3.
+
+Quick start
+Requirements
+ICON SDK for Golang development and execution requires following environments.
+
+Go 1.11+
+IDE: IntelliJ IDEA(golang plugin), Goland
+Reference
+ICON JSON-RPC API v3
+Version
+0.0.1 beta
+
+
+
+Adding ICON SDK for Golang
+First you need to get ICON SDK for Golang into your project. This can be installed using pip as follows:
+
+$ go get -u github.com/icon-project/icon-sdk-go
+
+
+Querying API methods
+get_block
+get_balance
+
+
+Loading a wallet and storing the keystore
+To send transactions, first, you should make an instance of your wallet.
+
+You can make an instance of the wallet using bytes of the private key or from a keystore file.
+
+
+
+API methods of KeyWallet
+create
+load
+store
+get_address
+get_private_key
+sign
+
+
+
+
+Signing and Sending transaction
+Generating a transaction
+After then, you should create an instance of the transaction using different types of transaction builders as follows.
+
+Signing a transaction
+Before sending a transaction, the transaction should be signed by using SignedTransaction class. The SignedTransaction class is used to sign the transaction by returning an instance of the signed transaction as demonstrated in the example below. The instance of the signed transaction has the property of a signature.
+
+Sending a transaction
+Finally, you can send a transaction with the signed transaction object as follows.
+
