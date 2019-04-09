@@ -1,3 +1,5 @@
+export GO111MODULE=on
+
 TARGET=./build
 ARCHS=amd64 386
 LDFLAGS="-s -w"
@@ -44,3 +46,12 @@ darwin:
 
 clean:
 	@rm -rf ${TARGET}/*
+
+build:
+	go build -v ./...
+
+test:
+	go test -v ./...
+
+upgrade:
+	go get -u

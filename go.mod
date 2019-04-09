@@ -4,5 +4,6 @@ go 1.12
 
 require (
 	github.com/davidbanham/human_duration v1.2.0
-	github.com/ybbus/jsonrpc v2.1.2+incompatible // indirect
+	github.com/rs/zerolog v1.13.0 // indirect
+	github.com/ybbus/jsonrpc v2.1.2+incompatible
 )
