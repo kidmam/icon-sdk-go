@@ -16,7 +16,7 @@ Version
 Adding ICON SDK for Golang
 First you need to get ICON SDK for Golang into your project. This can be installed using pip as follows:
 
-$ go get -u github.com/icon-project/icon-sdk-go
+$ go get -u github.com/kidmam/icon-sdk-go
 
 
 Querying API methods
