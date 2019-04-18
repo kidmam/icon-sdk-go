@@ -42,3 +42,5 @@ Golang ORM with focus on PostgreSQL features and performance - https://github.co
 Go SDK for the Auth0 platform - https://github.com/go-auth0/auth0
 
 Squeezer Framework - Build serverless dApps - https://github.com/SqueezerIO/squeezer
+
+go command line option parser - https://github.com/jessevdk/go-flags
