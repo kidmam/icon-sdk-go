@@ -44,3 +44,11 @@ Go SDK for the Auth0 platform - https://github.com/go-auth0/auth0
 Squeezer Framework - Build serverless dApps - https://github.com/SqueezerIO/squeezer
 
 go command line option parser - https://github.com/jessevdk/go-flags
+
+Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving - https://github.com/go-playground/validator
+
+~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint. - https://github.com/mgechev/revive
+
+Build powerful pipelines in any programming language. - https://github.com/gaia-pipeline/gaia
+
+Easy to use tracing with zipkin or jaeger tracing in golang - https://github.com/ricardo-ch/go-tracing
