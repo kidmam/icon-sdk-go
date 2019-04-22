@@ -2,6 +2,7 @@
 title: Golang Library
 date: "2019-04-13"
 ---
+End-to-end HTTP and REST API testing for Go - https://github.com/gavv/httpexpect
 
 A FileSystem Abstraction System for Go - https://github.com/spf13/afero
 
@@ -47,8 +48,13 @@ go command line option parser - https://github.com/jessevdk/go-flags
 
 Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving - https://github.com/go-playground/validator
 
-~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint. - https://github.com/mgechev/revive
+~6x faster, stricter, conßfigurable, extensible, and beautiful drop-in replacement for golint. - https://github.com/mgechev/revive
 
 Build powerful pipelines in any programming language. - https://github.com/gaia-pipeline/gaia
 
 Easy to use tracing with zipkin or jaeger tracing in golang - https://github.com/ricardo-ch/go-tracing
+
+Go utility for handling the retrying of a function call on error up to X times - https://github.com/J7mbo/MethodCallRetrier
+
+Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal - https://github.com/mholt/certmagic
+
