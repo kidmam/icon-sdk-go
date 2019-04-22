@@ -21,5 +21,6 @@ Go client for Elasticsearch using Docker - https://marcofranssen.nl/go-client-fo
 
 Unit Testing for REST APIs in Go - https://medium.com/@krishbhanushali/unit-testing-for-rest-apis-in-go-86c70dada52d
 
+A guide to understand the importance of commit messages and how to write them well - https://github.com/RomuloOliveira/commit-messages-guide
 
-
+Diving Into Golang Channels - https://itnext.io/diving-into-golang-channels-e9e610d586e8?sk=f4141d03f13cf1808260234873f64e69
