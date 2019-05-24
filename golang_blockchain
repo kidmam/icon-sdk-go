@@ -67,4 +67,14 @@ Bitcoin in Go
 HydroProtocol
  - https://github.com/HydroProtocol
 
+KuCoin
+ -  https://github.com/Kucoin/kucoin-go-sdk
 
+Filecoin Full Node Implementation in Go
+ - https://github.com/filecoin-project/go-filecoin
+
+Whiteblock - Blockchain Testing Research & Development
+ - https://github.com/Whiteblock
+
+Go Implementation of the Spacemesh blockmesh p2p node.
+ - https://github.com/spacemeshos/go-spacemesh
