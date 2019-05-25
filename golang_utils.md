@@ -10,3 +10,7 @@ A tool for managing secrets on Google Cloud - https://github.com/GoogleCloudPlat
 Web File Browser which can be used as a middleware or standalone app. - https://github.com/filebrowser/filebrowser
 https://github.com/filebrowser/frontend
 
+Design-based APIs and microservices in Go https://goa.design - https://github.com/goadesign/goa
+
+Task runner for Go-based projects - https://github.com/go-gilbert/gilbert
+
