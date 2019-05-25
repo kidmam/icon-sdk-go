@@ -58,3 +58,19 @@ Go utility for handling the retrying of a function call on error up to X times -
 
 Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal - https://github.com/mholt/certmagic
 
+Pretty print Tables and more in golang! - https://github.com/jedib0t/go-pretty
+
+Generate changelog from git history, tags and merged pull requests - https://github.com/Songmu/ghch
+
+Library for enabling asynchronous health checks in your service - https://github.com/InVisionApp/go-health
+
+An enhanced HTTP client for Go - https://github.com/gojektech/heimdall
+
+a cron library for go - https://github.com/robfig/cron
+
+Terminal based dashboard. - https://github.com/mum4k/termdash
+
+Take screenshots of websites and create PDF from HTML pages using chromium and docker - https://github.com/FireFart/gochro
+
+Modern Job Scheduler - https://github.com/ajvb/kala
+
