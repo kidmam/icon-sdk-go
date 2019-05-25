@@ -78,3 +78,9 @@ Whiteblock - Blockchain Testing Research & Development
 
 Go Implementation of the Spacemesh blockmesh p2p node.
  - https://github.com/spacemeshos/go-spacemesh
+
+Official Go implementation of the QLC Chain protocol.
+ - https://github.com/qlcchain/go-qlc
+
+Official Go implementation of the YeeChain
+ - https://github.com/yeeco/gyee
