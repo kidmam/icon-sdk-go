@@ -24,3 +24,25 @@ Unit Testing for REST APIs in Go - https://medium.com/@krishbhanushali/unit-test
 A guide to understand the importance of commit messages and how to write them well - https://github.com/RomuloOliveira/commit-messages-guide
 
 Diving Into Golang Channels - https://itnext.io/diving-into-golang-channels-e9e610d586e8?sk=f4141d03f13cf1808260234873f64e69
+
+Scheduling In Go : Part I - OS Scheduler - https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
+
+Scheduling In Go : Part II - Go Scheduler - https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
+
+Scheduling In Go : Part III - Concurrency - https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
+
+How To Create Health Check For RESTful Microservice In Golang - http://goinbigdata.com/how-to-create-health-check-for-restful-microservice-in-golang/
+
+Application Health Check with Golang and Multi-Stage Docker Build - https://medium.com/@stefan.poeltl/application-health-check-with-golang-and-multi-stage-docker-build-c173c2b5d3c7
+
+How to develop Go gRPC microservices and deploy in Kubernetes - https://hackernoon.com/how-to-develop-go-grpc-microservices-and-deploy-in-kubernates-5eace0425bf8
+
+Diving Into Golang Channels - https://itnext.io/diving-into-golang-channels-e9e610d586e8
+
+Understanding Maps in Go - https://www.digitalocean.com/community/tutorials/understanding-maps-in-go
+
+5 Tips To Speed Up Golang Development With IntelliJ Or Goland - https://medium.com/@keperry/5-tips-to-speed-up-golang-development-with-intellij-or-goland-6646110e9c5e
+
+Let's Go: Object-Oriented Programming in Golang - https://code.tutsplus.com/tutorials/lets-go-object-oriented-programming-in-golang--cms-26540
+
+Authentication in Golang - https://medium.com/@holy_abimz/authentication-in-golang-c0677bcce1a8
