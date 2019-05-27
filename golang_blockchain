@@ -84,3 +84,6 @@ Official Go implementation of the QLC Chain protocol.
 
 Official Go implementation of the YeeChain
  - https://github.com/yeeco/gyee
+
+A Go library to work with Exonum blockchain .
+ - https://github.com/inn4science/exonum-go
